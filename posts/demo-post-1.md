@@ -1,5 +1,5 @@
 ---
-title: 'The city of hipsters'
+title: 'KUBERNETES'
 author: 'Netlifriends'
 date: '2020-04-27'
 hero_image: ../static/milkovi-seattle-unsplash.jpg
